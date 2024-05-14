@@ -1,1 +1,1 @@
-'PRODIGY_DS_03' is a ML Model which leverages cutting-edge machine learning algorithms to forecast purchasing behavior using the Bank Marketing dataset, empowering predictive analytics and informed decision-making.
+"PRODIGY_DS_03" is an innovative machine learning solution harnessing state-of-the-art algorithms, including Decision Tree Classifier, to predict consumer purchasing behavior. Using the comprehensive Bank Marketing dataset, this repository enables advanced predictive analytics, empowering predictive analytics and informed decision-making.
